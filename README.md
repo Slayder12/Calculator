@@ -13,4 +13,4 @@
 Screenshots:
 
 ![](https://github.com/Slayder12/Calculator/blob/main/assets/1.png)
-![](https://github.com/Slayder12/Calculator/blob/main/assets/1.png)
+![](https://github.com/Slayder12/Calculator/blob/main/assets/2.png)
